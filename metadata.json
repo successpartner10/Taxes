@@ -1,0 +1,6 @@
+{
+  "name": "Canadian Business Expense Tracker",
+  "description": "Track business expenses, calculate GST/HST input tax credits, categorize by CRA tax codes, and generate reports for your Canadian accountant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
